@@ -35,3 +35,4 @@ master -> develop -> feature/solution_folder -> create pull request to develop -
 - DDD (domain driven design)
 ## Link about project
 - http://www.lucasitstore.tk/
+- http://www.youtube.com/
