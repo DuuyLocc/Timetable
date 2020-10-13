@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timetable.Data", "Timetable.Data\Timetable.Data.csproj", "{93E3B04E-8D60-4397-8249-EEA24F9E9C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timetable.Application", "Timetable.Application\Timetable.Application.csproj", "{C0CB9641-CCD1-48B1-9D4E-168915B02523}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{CF8E06C5-172A-4C4B-9654-9CA44941465E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF8E06C5-172A-4C4B-9654-9CA44941465E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF8E06C5-172A-4C4B-9654-9CA44941465E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E3B04E-8D60-4397-8249-EEA24F9E9C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E3B04E-8D60-4397-8249-EEA24F9E9C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E3B04E-8D60-4397-8249-EEA24F9E9C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E3B04E-8D60-4397-8249-EEA24F9E9C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CB9641-CCD1-48B1-9D4E-168915B02523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CB9641-CCD1-48B1-9D4E-168915B02523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CB9641-CCD1-48B1-9D4E-168915B02523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CB9641-CCD1-48B1-9D4E-168915B02523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
